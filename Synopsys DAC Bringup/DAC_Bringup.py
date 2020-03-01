@@ -319,3 +319,7 @@ for f in frequency:
 # shifted_data(data[2], 11, 1)
 
 hex(client.read_uint32(eyec.address_space_t.lw, 0x30004))
+
+
+
+
